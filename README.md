@@ -18,9 +18,11 @@ A simple Python-based dice simulator that allows users to roll one or more dice 
 
    ```bash
    git clone https://github.com/ummar40/dice_simulator-python.git
-   cd dice_simulatorII
+   cd dice_simulator_II
 
- ## Run the simulation
+ ## Run script using Python
  
- python dice_simulatorII.py
+ python dice_simulator__II.py
+
+ ## When prompted, press 'y' to roll the dice again or any other key to exit.
 
